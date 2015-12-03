@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/lavalake/code/2048-android/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd">
+        <dex dex="/Users/lavalake/code/2048-android/build/intermediates/pre-dexed/debug/android-support-v4-efae018a34f30ff0fded2ffd9dfabdd446ff6cf7.jar" />
+    </item>
+    <item
+        jar="/Users/lavalake/code/2048-android/build/intermediates/exploded-aar/2048-android/volley/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b22e6bae4ee5b5ddcff054c5c9af42dd499423f">
+        <dex dex="/Users/lavalake/code/2048-android/build/intermediates/pre-dexed/debug/classes-f2efc210b57b20198924a12473fdd813fe5fb0ce.jar" />
+    </item>
+
+</items>

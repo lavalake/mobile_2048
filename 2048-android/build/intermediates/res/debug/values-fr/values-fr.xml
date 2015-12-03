@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/lavalake/code/2048-android/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Paramètres</string>
+    <string name="app_name">2048</string>
+    <string name="press_back_again_to_exit">Appuyez encore sur retour pour quitter</string>
+    <string name="toggle_fullscreen">Appuyez longtemps pour passer en mode plein écran</string>
+</resources>
